@@ -32,8 +32,8 @@ plugins:
   - jekyll-feed
 
 domain: maxence-menager.fr
-url: https://maxence-menager.fr
-baseurl: /site/
+url: http://maxence-menager.fr
+baseurl: /docs/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
