@@ -33,7 +33,7 @@ plugins:
 
 domain: maxence-menager.fr
 url: http://maxence-menager.fr
-baseurl: /docs/
+# baseurl: /docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
