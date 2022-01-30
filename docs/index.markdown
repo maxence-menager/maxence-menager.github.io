@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+This is a test! 
+
+a rely nice test
